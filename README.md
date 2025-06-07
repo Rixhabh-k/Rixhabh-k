@@ -29,13 +29,14 @@
 - 🏫 Diploma student in Information Technology (Govt Polytechnic)
 - 🎨 Skilled in UI/UX, graphic design, and responsive layouts
 - 💻 Building projects using HTML, CSS, JavaScript, and DOM
-- 🧠 Practicing JS logic and system-level understanding
-- 🛠 Currently avoiding React to focus on core frontend + scalability
-- 📦 Creating tools like advanced to-do apps, notes systems, portals
-- 🧱 Goal: Become a **developer who builds systems that scale**
-- 🔭 Vision: Master design, frontend tech, animations (GSAP, Three.js), backend basics, and AI integration — all by 2027
+- 🧠 Practicing logic and system-level understanding
+- ⚛️ Beginner in React, currently learning components and hooks
+- 🔭 Vision: Become a **developer who builds systems that scale**
+- 📈 Aiming to dominate frontend with creative animations & interaction
 
 ---
+
+
 
 ### 🧰 My Tech Stack
 
@@ -48,19 +49,19 @@
 
 ---
 
-### 📌 Highlights
+### 🎯 Frontend Domination Roadmap
 
-- ✅ Fully responsive **TaskMaster – To-Do App** with tabbed tasks, modals, themes, and localStorage
-- 📒 **Advanced Notes App** with categories, search, Markdown support
-- ⚙️ Custom sidebar dashboards, college portals, and utility tools
-- 💡 Always designing with users and scalability in mind
+<p align="center">
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Locomotive.js-darkblue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Shery.js-black?style=for-the-badge" />
+</p>
+
+> 💡 Learning these tools to bring interfaces to life with smooth animations, creative motion, 3D visuals, and scroll magic.
 
 ---
 
-### 🎯 Roadmap to 2027
 
-```txt
-🔹 2025: Master JS logic, DOM, UI/UX, animations
-🔹 2026: Backend basics, system design, advanced frontend tech
-🔹 2027: Complete scalable apps with full-stack structure and AI integration
 
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=Rixhabh-k&theme=tokyonight&hide_border=true"/> </p>
