@@ -4,9 +4,9 @@
 <strong>Frontend Developer / Designer.</strong> Building, designing, and shipping.
 </td>
 <td align="right">
-<a href="https://krft-tech.in/">Portfolio</a> ·
+<a href="https://me.rixhabh.in/">Portfolio</a> ·
 <a href="https://github.com/Rixhabh-k">GitHub</a> ·
-<a href="https://www.linkedin.com/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/rishabh-kharwar-dev/">LinkedIn</a>
 </td>
 </tr>
 </table>
@@ -84,7 +84,7 @@ I care about clean interfaces, reusable systems, meaningful interactions, and un
 ## Connect
 
 <p align="center">
-<a href="https://krft-tech.in/">
+<a href="https://me.rixhabh.in/">
 <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio">
 </a>
 <a href="https://github.com/Rixhabh-k">
