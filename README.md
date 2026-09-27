@@ -24,11 +24,11 @@ I build modern web applications, interactive interfaces, developer tools, and di
 
 ## Projects & Open Source
 
-### Velmora UI
+### Tatva UI
 
-Creator of **Velmora UI** — a reusable React animation and interaction library for building modern, expressive web interfaces.
+Creator of **Tatva UI** — a reusable React animation and interaction library for building modern, expressive web interfaces.
 
-Velmora focuses on creating **animated components and regular reusable UI components** that can be easily integrated into modern React applications.
+Tatva focuses on creating **animated components and regular reusable UI components** that can be easily integrated into modern React applications.
 
 The library provides customizable components and interaction patterns while keeping visual styling flexible through component props and `className`.
 
